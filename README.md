@@ -1,5 +1,5 @@
 # embd
-embd = embedded 
+embd = embedded (pronounced Emm Bee Dee)
 
 Like koaning/bulk but with built in functionality provided by Quaternion for similarity model finetuning
 
