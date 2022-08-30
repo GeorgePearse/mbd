@@ -10,4 +10,4 @@ POC. Lightweight UI for interactive labelling similarity tuning of NLP models (m
 
 UI, probably just Streamlit, may try javascript.
 
-Any old-fashioned data storage in SQLite.
+Any old-fashioned data storage in SQLite (or CSV), implement both and provide an option
