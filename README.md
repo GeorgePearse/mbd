@@ -2,7 +2,7 @@
 
 <img width="135" alt="image" src="https://user-images.githubusercontent.com/47161914/187463225-da415263-67b0-474e-afc9-14c50ca565b7.png">
 
-embd = embedded (pronounced Emm Bee Dee). Might drop the E
+mbd = embedded (pronounced Emm Bee Dee)
 
 Like koaning/bulk but with built in functionality provided by Quaterion for similarity model finetuning.
 * https://github.com/koaning/bulk
