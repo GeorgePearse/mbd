@@ -10,4 +10,7 @@ POC. Lightweight UI for interactive labelling similarity tuning of NLP models (m
 
 UI, probably just Streamlit, may try javascript.
 
-Any old-fashioned data storage in SQLite (or CSV), implement both and provide an option
+Any old-fashioned data storage in SQLite (or CSV), implement both and provide an option.
+
+Can pluck this streamlit component out for the labelling of sentences (or larger chunks of text). You want to be able to save, and append to a list of classes. With both a YES option, and a NO option, for any given class? -> Only matters if you wanted to include the positive and negative set-up of QDrant.
+https://github.com/ash2shukla/streamlit-bokeh-events.
