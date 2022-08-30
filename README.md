@@ -4,8 +4,9 @@
 
 embd = embedded (pronounced Emm Bee Dee). Might drop the E
 
-Like koaning/bulk but with built in functionality provided by Quaternion for similarity model finetuning.
-https://github.com/koaning/bulk
+Like koaning/bulk but with built in functionality provided by Quaterion for similarity model finetuning.
+* https://github.com/koaning/bulk
+* https://github.com/qdrant/quaterion
 
 
 
